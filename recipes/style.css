@@ -1,0 +1,20 @@
+h1 {
+    color:green;
+    font-size: 50px;
+    text-align:center;
+}
+h2 {
+    color: teal;
+}
+
+p {
+    color: white;
+}
+
+body{
+    background-color: brown;
+}
+
+ul,ol{
+    color:white;
+}
